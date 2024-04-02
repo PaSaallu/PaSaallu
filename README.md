@@ -1,7 +1,7 @@
 ## Bem-vindo(a) ao perfil do PaSaallu 😁
 
  <div>
-   <a href="https://github.com/PaSaallu">
+   <a href="https://github.com/pasaallu">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pasaallu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasaallu&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
